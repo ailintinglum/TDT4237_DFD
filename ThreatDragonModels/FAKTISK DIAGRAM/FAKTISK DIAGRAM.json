@@ -516,7 +516,7 @@
           {
             "position": {
               "x": 512,
-              "y": 257
+              "y": 227
             },
             "size": {
               "width": 70,
@@ -875,8 +875,8 @@
           },
           {
             "position": {
-              "x": 512,
-              "y": 67
+              "x": 582,
+              "y": 7
             },
             "size": {
               "width": 70,
@@ -1497,53 +1497,6 @@
             "connector": "smooth",
             "data": {
               "type": "tm.Flow",
-              "name": "Resolve\nreal\nidentity",
-              "description": "",
-              "outOfScope": false,
-              "isTrustBoundary": false,
-              "reasonOutOfScope": "",
-              "hasOpenThreats": false,
-              "isBidirectional": false,
-              "isEncrypted": false,
-              "isPublicNetwork": false,
-              "protocol": "",
-              "threats": [],
-              "trustBoundaryIds": []
-            },
-            "labels": [
-              "Resolve\nreal\nidentity"
-            ],
-            "id": "ba3b29c2-7b75-4f09-995f-ff1be6277887",
-            "source": {
-              "cell": "f11119f1-61e5-4b4c-9cf0-35c0ca94d392",
-              "port": "17563a39-3083-447d-9735-75f7a37c3e0d"
-            },
-            "target": {
-              "cell": "db3a626b-3478-4fbb-8063-3418b981ffe6",
-              "port": "2cae1510-85d9-4fb1-a465-76cafb4d47cb"
-            },
-            "vertices": []
-          },
-          {
-            "shape": "flow",
-            "attrs": {
-              "line": {
-                "stroke": "#333333",
-                "targetMarker": {
-                  "name": "block"
-                },
-                "sourceMarker": {
-                  "name": ""
-                },
-                "strokeDasharray": null
-              }
-            },
-            "width": 200,
-            "height": 100,
-            "zIndex": 10,
-            "connector": "smooth",
-            "data": {
-              "type": "tm.Flow",
               "name": "Pseudonymized\nguest\nrecord",
               "description": "",
               "outOfScope": false,
@@ -1898,53 +1851,6 @@
             "connector": "smooth",
             "data": {
               "type": "tm.Flow",
-              "name": "Store\nmedia\nrecording",
-              "description": "",
-              "outOfScope": false,
-              "isTrustBoundary": false,
-              "reasonOutOfScope": "",
-              "hasOpenThreats": false,
-              "isBidirectional": false,
-              "isEncrypted": false,
-              "isPublicNetwork": false,
-              "protocol": "",
-              "threats": [],
-              "trustBoundaryIds": []
-            },
-            "labels": [
-              "Store\nmedia\nrecording"
-            ],
-            "id": "edc005be-f6e0-4fbc-b2be-74ec4d8d69dc",
-            "source": {
-              "cell": "ef5c88b8-09e2-4db4-98b7-d8a3ccd3b1de",
-              "port": "bf7c8694-a2a6-4426-b628-7648b5737e04"
-            },
-            "target": {
-              "cell": "ed859af1-baa8-40db-a456-3f32e364133b",
-              "port": "669da03d-8a23-4dcd-9a5c-65bb3be84833"
-            },
-            "vertices": []
-          },
-          {
-            "shape": "flow",
-            "attrs": {
-              "line": {
-                "stroke": "#333333",
-                "targetMarker": {
-                  "name": "block"
-                },
-                "sourceMarker": {
-                  "name": ""
-                },
-                "strokeDasharray": null
-              }
-            },
-            "width": 200,
-            "height": 100,
-            "zIndex": 10,
-            "connector": "smooth",
-            "data": {
-              "type": "tm.Flow",
               "name": "Face match result",
               "description": "",
               "outOfScope": false,
@@ -2252,7 +2158,7 @@
             "connector": "smooth",
             "data": {
               "type": "tm.Flow",
-              "name": "Query \npseudonym",
+              "name": "Pseudonymized\nguest\ndata",
               "description": "",
               "outOfScope": false,
               "isTrustBoundary": false,
@@ -2266,7 +2172,7 @@
               "trustBoundaryIds": []
             },
             "labels": [
-              "Query \npseudonym"
+              "Pseudonymized\nguest\ndata"
             ],
             "id": "c37318ac-1efb-4d99-9bd2-d9d427827383",
             "source": {
@@ -2279,8 +2185,172 @@
             },
             "vertices": [
               {
-                "x": 380,
-                "y": 330
+                "x": 360,
+                "y": 430
+              },
+              {
+                "x": 340,
+                "y": 300
+              },
+              {
+                "x": 470,
+                "y": 170
+              }
+            ]
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "Resolve\nreal\nidentity",
+              "description": "",
+              "outOfScope": false,
+              "isTrustBoundary": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "",
+              "threats": [],
+              "trustBoundaryIds": []
+            },
+            "labels": [
+              "Resolve\nreal\nidentity"
+            ],
+            "id": "ba3b29c2-7b75-4f09-995f-ff1be6277887",
+            "source": {
+              "cell": "f11119f1-61e5-4b4c-9cf0-35c0ca94d392",
+              "port": "17563a39-3083-447d-9735-75f7a37c3e0d"
+            },
+            "target": {
+              "cell": "db3a626b-3478-4fbb-8063-3418b981ffe6",
+              "port": "2cae1510-85d9-4fb1-a465-76cafb4d47cb"
+            },
+            "vertices": [
+              {
+                "x": 470,
+                "y": 30
+              }
+            ]
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "Resolved \nidentity",
+              "description": "",
+              "outOfScope": false,
+              "isTrustBoundary": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "",
+              "threats": [],
+              "trustBoundaryIds": []
+            },
+            "labels": [
+              "Resolved \nidentity"
+            ],
+            "id": "3a300c1a-df83-4e9c-bb29-83100461f814",
+            "source": {
+              "cell": "db3a626b-3478-4fbb-8063-3418b981ffe6",
+              "port": "2cae1510-85d9-4fb1-a465-76cafb4d47cb"
+            },
+            "target": {
+              "cell": "f11119f1-61e5-4b4c-9cf0-35c0ca94d392",
+              "port": "17563a39-3083-447d-9735-75f7a37c3e0d"
+            },
+            "vertices": [
+              {
+                "x": 440,
+                "y": 102
+              }
+            ]
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "Query\npseudonym",
+              "description": "",
+              "outOfScope": false,
+              "isTrustBoundary": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "",
+              "threats": [],
+              "trustBoundaryIds": []
+            },
+            "labels": [
+              "Query\npseudonym"
+            ],
+            "id": "d76f2f77-592a-4141-873c-8244f2cd70be",
+            "source": {
+              "cell": "f11119f1-61e5-4b4c-9cf0-35c0ca94d392",
+              "port": "17563a39-3083-447d-9735-75f7a37c3e0d"
+            },
+            "target": {
+              "cell": "664bbde1-9526-4baa-8de8-4e068928983c",
+              "port": "89933cf5-8941-4b9d-a718-5f87c069555f"
+            },
+            "vertices": [
+              {
+                "x": 410,
+                "y": 400
               }
             ]
           },
