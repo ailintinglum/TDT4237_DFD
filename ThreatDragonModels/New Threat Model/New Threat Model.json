@@ -1297,7 +1297,7 @@
             "connector": "smooth",
             "data": {
               "type": "tm.Flow",
-              "name": "Data Flow",
+              "name": "PII lookup",
               "description": "",
               "outOfScope": false,
               "isTrustBoundary": false,
@@ -1311,7 +1311,7 @@
               "trustBoundaryIds": []
             },
             "labels": [
-              "Data Flow"
+              "PII lookup"
             ],
             "id": "e1c1a7c8-5e67-4748-9300-ecd996475526",
             "source": {
