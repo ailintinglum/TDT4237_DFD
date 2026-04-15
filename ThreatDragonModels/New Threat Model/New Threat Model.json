@@ -697,58 +697,6 @@
             "connector": "smooth",
             "data": {
               "type": "tm.Flow",
-              "name": "Authentication\nrequest",
-              "description": "",
-              "outOfScope": false,
-              "isTrustBoundary": false,
-              "reasonOutOfScope": "",
-              "hasOpenThreats": false,
-              "isBidirectional": false,
-              "isEncrypted": false,
-              "isPublicNetwork": false,
-              "protocol": "",
-              "threats": [],
-              "trustBoundaryIds": []
-            },
-            "labels": [
-              "Authentication\nrequest"
-            ],
-            "id": "0dcd5bad-7d1e-43b7-ab4c-51848eebc572",
-            "source": {
-              "cell": "8b078ea4-d5d7-4ffc-b20c-4c3daa4294ee",
-              "port": "10563cbb-a9b2-4938-9b38-9e698a5d3b48"
-            },
-            "target": {
-              "cell": "f0c4efe6-54f5-4088-97d3-bec6777bff6a",
-              "port": "6b0d39f1-dcbc-48f9-82ff-44618523c100"
-            },
-            "vertices": [
-              {
-                "x": 450,
-                "y": 30
-              }
-            ]
-          },
-          {
-            "shape": "flow",
-            "attrs": {
-              "line": {
-                "stroke": "#333333",
-                "targetMarker": {
-                  "name": "block"
-                },
-                "sourceMarker": {
-                  "name": ""
-                },
-                "strokeDasharray": null
-              }
-            },
-            "width": 200,
-            "height": 100,
-            "zIndex": 10,
-            "connector": "smooth",
-            "data": {
-              "type": "tm.Flow",
               "name": "JWT \ntoken",
               "description": "",
               "outOfScope": false,
@@ -776,8 +724,8 @@
             },
             "vertices": [
               {
-                "x": 480,
-                "y": -70
+                "x": 580,
+                "y": -60
               }
             ]
           },
@@ -1365,9 +1313,61 @@
             "vertices": []
           },
           {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "Authentication\nrequest",
+              "description": "",
+              "outOfScope": false,
+              "isTrustBoundary": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "",
+              "threats": [],
+              "trustBoundaryIds": []
+            },
+            "labels": [
+              "Authentication\nrequest"
+            ],
+            "id": "54dd8853-4bff-4f03-925d-4c585791d77a",
+            "source": {
+              "cell": "8b078ea4-d5d7-4ffc-b20c-4c3daa4294ee",
+              "port": "10563cbb-a9b2-4938-9b38-9e698a5d3b48"
+            },
+            "target": {
+              "cell": "f0c4efe6-54f5-4088-97d3-bec6777bff6a",
+              "port": "6b0d39f1-dcbc-48f9-82ff-44618523c100"
+            },
+            "vertices": [
+              {
+                "x": 630,
+                "y": 20
+              }
+            ]
+          },
+          {
             "position": {
-              "x": 140,
-              "y": 340
+              "x": 130,
+              "y": 380
             },
             "size": {
               "width": 120,
@@ -1734,8 +1734,8 @@
           },
           {
             "position": {
-              "x": 613.5,
-              "y": -50
+              "x": 820,
+              "y": -60
             },
             "size": {
               "width": 112.5,
@@ -1851,7 +1851,7 @@
           },
           {
             "position": {
-              "x": 350,
+              "x": 420,
               "y": -50
             },
             "size": {
@@ -1971,8 +1971,8 @@
           },
           {
             "position": {
-              "x": 696,
-              "y": 340
+              "x": 820,
+              "y": 210
             },
             "size": {
               "width": 120,
@@ -2452,8 +2452,8 @@
           },
           {
             "position": {
-              "x": 420,
-              "y": 100
+              "x": 423.75,
+              "y": 130
             },
             "size": {
               "width": 112.5,
