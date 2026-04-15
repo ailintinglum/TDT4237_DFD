@@ -45,6 +45,7 @@
             },
             "visible": true,
             "shape": "store",
+            "zIndex": 1,
             "ports": {
               "groups": {
                 "top": {
@@ -128,7 +129,6 @@
               ]
             },
             "id": "96d04f0a-f634-4ecf-89c6-82583e0dbb6a",
-            "zIndex": 1,
             "data": {
               "type": "tm.Store",
               "name": "Guest information\nDB",
@@ -169,6 +169,7 @@
             },
             "visible": true,
             "shape": "store",
+            "zIndex": 2,
             "ports": {
               "groups": {
                 "top": {
@@ -252,7 +253,6 @@
               ]
             },
             "id": "664bbde1-9526-4baa-8de8-4e068928983c",
-            "zIndex": 2,
             "data": {
               "type": "tm.Store",
               "name": "Pseudonymized\nDB",
@@ -293,6 +293,7 @@
             },
             "visible": true,
             "shape": "store",
+            "zIndex": 3,
             "ports": {
               "groups": {
                 "top": {
@@ -376,7 +377,6 @@
               ]
             },
             "id": "ed859af1-baa8-40db-a456-3f32e364133b",
-            "zIndex": 3,
             "data": {
               "type": "tm.Store",
               "name": "Media\nDB",
@@ -414,6 +414,7 @@
             },
             "visible": true,
             "shape": "process",
+            "zIndex": 4,
             "ports": {
               "groups": {
                 "top": {
@@ -497,7 +498,6 @@
               ]
             },
             "id": "9de3696c-8429-4b38-ab11-7cc0f5ac74be",
-            "zIndex": 4,
             "data": {
               "type": "tm.Process",
               "name": "Booking \nservice",
@@ -534,6 +534,7 @@
             },
             "visible": true,
             "shape": "process",
+            "zIndex": 5,
             "ports": {
               "groups": {
                 "top": {
@@ -617,7 +618,6 @@
               ]
             },
             "id": "cdbf82e8-fe98-4923-a46d-22029f6fb914",
-            "zIndex": 5,
             "data": {
               "type": "tm.Process",
               "name": "Pseudonymization\nService",
@@ -654,6 +654,7 @@
             },
             "visible": true,
             "shape": "process",
+            "zIndex": 6,
             "ports": {
               "groups": {
                 "top": {
@@ -737,7 +738,6 @@
               ]
             },
             "id": "e54bb606-8e0c-4483-9d8e-183590d895a9",
-            "zIndex": 6,
             "data": {
               "type": "tm.Process",
               "name": "Authentication\nService",
@@ -774,6 +774,7 @@
             },
             "visible": true,
             "shape": "process",
+            "zIndex": 7,
             "ports": {
               "groups": {
                 "top": {
@@ -857,7 +858,6 @@
               ]
             },
             "id": "db3a626b-3478-4fbb-8063-3418b981ffe6",
-            "zIndex": 7,
             "data": {
               "type": "tm.Process",
               "name": "Identity\nresolver",
@@ -894,6 +894,7 @@
             },
             "visible": true,
             "shape": "process",
+            "zIndex": 8,
             "ports": {
               "groups": {
                 "top": {
@@ -977,7 +978,6 @@
               ]
             },
             "id": "f11119f1-61e5-4b4c-9cf0-35c0ca94d392",
-            "zIndex": 8,
             "data": {
               "type": "tm.Process",
               "name": "Media \nLinker\nAPI",
@@ -1014,6 +1014,7 @@
             },
             "visible": true,
             "shape": "process",
+            "zIndex": 9,
             "ports": {
               "groups": {
                 "top": {
@@ -1097,7 +1098,6 @@
               ]
             },
             "id": "ef5c88b8-09e2-4db4-98b7-d8a3ccd3b1de",
-            "zIndex": 9,
             "data": {
               "type": "tm.Process",
               "name": "AI Face\nRecognition\nService",
@@ -2375,6 +2375,7 @@
             },
             "visible": true,
             "shape": "actor",
+            "zIndex": 11,
             "ports": {
               "groups": {
                 "top": {
@@ -2458,7 +2459,6 @@
               ]
             },
             "id": "df6371bc-0b7f-4faf-9363-9ef3f8797896",
-            "zIndex": 11,
             "data": {
               "type": "tm.Actor",
               "name": "Guest",
@@ -2492,6 +2492,7 @@
             },
             "visible": true,
             "shape": "actor",
+            "zIndex": 12,
             "ports": {
               "groups": {
                 "top": {
@@ -2575,7 +2576,6 @@
               ]
             },
             "id": "c39c43cf-2214-4d36-9ee5-47659f0c3e88",
-            "zIndex": 12,
             "data": {
               "type": "tm.Actor",
               "name": "Staff",
@@ -2609,6 +2609,7 @@
             },
             "visible": true,
             "shape": "actor",
+            "zIndex": 13,
             "ports": {
               "groups": {
                 "top": {
@@ -2692,7 +2693,6 @@
               ]
             },
             "id": "baad4937-d211-4953-916a-a5abbfd5c06b",
-            "zIndex": 13,
             "data": {
               "type": "tm.Actor",
               "name": "IdP",
@@ -2726,6 +2726,7 @@
             },
             "visible": true,
             "shape": "actor",
+            "zIndex": 14,
             "ports": {
               "groups": {
                 "top": {
@@ -2809,7 +2810,6 @@
               ]
             },
             "id": "bdbee12f-e17e-4fc5-89b7-a441dcbf7274",
-            "zIndex": 14,
             "data": {
               "type": "tm.Actor",
               "name": "Surveillance \ncamera",
@@ -2871,58 +2871,6 @@
               {
                 "x": 630,
                 "y": 390
-              }
-            ]
-          },
-          {
-            "shape": "flow",
-            "attrs": {
-              "line": {
-                "stroke": "#333333",
-                "targetMarker": {
-                  "name": "block"
-                },
-                "sourceMarker": {
-                  "name": ""
-                },
-                "strokeDasharray": null
-              }
-            },
-            "width": 200,
-            "height": 100,
-            "zIndex": 16,
-            "connector": "smooth",
-            "data": {
-              "type": "tm.Flow",
-              "name": "Guest \nOperational Data",
-              "description": "",
-              "outOfScope": false,
-              "isTrustBoundary": false,
-              "reasonOutOfScope": "",
-              "hasOpenThreats": false,
-              "isBidirectional": false,
-              "isEncrypted": false,
-              "isPublicNetwork": false,
-              "protocol": "",
-              "threats": [],
-              "trustBoundaryIds": []
-            },
-            "labels": [
-              "Guest \nOperational Data"
-            ],
-            "id": "3179a612-e4e1-4135-bc21-ff47c0203a73",
-            "source": {
-              "cell": "9de3696c-8429-4b38-ab11-7cc0f5ac74be",
-              "port": "695e9c0e-87e3-43f1-94c7-2a13a00c4d13"
-            },
-            "target": {
-              "cell": "e54bb606-8e0c-4483-9d8e-183590d895a9",
-              "port": "bf7c8694-a2a6-4426-b628-7648b5737e04"
-            },
-            "vertices": [
-              {
-                "x": 290,
-                "y": -250
               }
             ]
           }
