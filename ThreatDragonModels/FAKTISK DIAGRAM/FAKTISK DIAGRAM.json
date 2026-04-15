@@ -32,7 +32,7 @@
             },
             "attrs": {
               "text": {
-                "text": "Guest\nDB"
+                "text": "Guest information\nDB"
               },
               "topLine": {
                 "strokeWidth": 1.5,
@@ -131,7 +131,7 @@
             "zIndex": 1,
             "data": {
               "type": "tm.Store",
-              "name": "Guest\nDB",
+              "name": "Guest information\nDB",
               "description": "",
               "outOfScope": false,
               "isTrustBoundary": false,
@@ -516,7 +516,7 @@
           {
             "position": {
               "x": 512,
-              "y": 227
+              "y": 197
             },
             "size": {
               "width": 70,
@@ -2349,8 +2349,8 @@
             },
             "vertices": [
               {
-                "x": 410,
-                "y": 400
+                "x": 430,
+                "y": 360
               }
             ]
           },
@@ -2716,7 +2716,7 @@
             },
             "attrs": {
               "text": {
-                "text": "Surveillance camera"
+                "text": "Surveillance \ncamera"
               },
               "body": {
                 "stroke": "#333333",
@@ -2812,7 +2812,7 @@
             "zIndex": 14,
             "data": {
               "type": "tm.Actor",
-              "name": "Surveillance camera",
+              "name": "Surveillance \ncamera",
               "description": "",
               "isTrustBoundary": false,
               "outOfScope": false,
