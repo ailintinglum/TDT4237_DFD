@@ -3129,7 +3129,7 @@
             "connector": "smooth",
             "data": {
               "type": "tm.Boundary",
-              "name": "Trust Boundary",
+              "name": "",
               "description": "",
               "isTrustBoundary": true,
               "hasOpenThreats": false,
@@ -3137,7 +3137,7 @@
               "containedElements": []
             },
             "labels": [
-              "Trust Boundary"
+              ""
             ],
             "id": "99a74788-5f71-4886-9280-e64b008c6c7f",
             "source": {
@@ -3153,7 +3153,17 @@
                 "x": 810,
                 "y": -410
               }
-            ]
+            ],
+            "tools": {
+              "items": [
+                "boundary",
+                "button-remove",
+                "vertices",
+                "source-arrowhead",
+                "target-arrowhead"
+              ],
+              "name": null
+            }
           }
         ],
         "description": ""
