@@ -23,7 +23,7 @@
         "cells": [
           {
             "position": {
-              "x": 60,
+              "x": 270,
               "y": 460
             },
             "size": {
@@ -147,7 +147,7 @@
           },
           {
             "position": {
-              "x": 487,
+              "x": 697,
               "y": 460
             },
             "size": {
@@ -271,7 +271,7 @@
           },
           {
             "position": {
-              "x": 879,
+              "x": 1089,
               "y": 460
             },
             "size": {
@@ -395,7 +395,7 @@
           },
           {
             "position": {
-              "x": 85,
+              "x": 295,
               "y": 67
             },
             "size": {
@@ -515,7 +515,7 @@
           },
           {
             "position": {
-              "x": 512,
+              "x": 722,
               "y": 227
             },
             "size": {
@@ -635,7 +635,7 @@
           },
           {
             "position": {
-              "x": 480,
+              "x": 690,
               "y": -470
             },
             "size": {
@@ -755,7 +755,7 @@
           },
           {
             "position": {
-              "x": 320,
+              "x": 530,
               "y": 30
             },
             "size": {
@@ -875,7 +875,7 @@
           },
           {
             "position": {
-              "x": 582,
+              "x": 792,
               "y": 7
             },
             "size": {
@@ -995,7 +995,7 @@
           },
           {
             "position": {
-              "x": 879,
+              "x": 1089,
               "y": 67
             },
             "size": {
@@ -1160,7 +1160,7 @@
             },
             "vertices": [
               {
-                "x": 60,
+                "x": 270,
                 "y": -160
               }
             ]
@@ -1212,7 +1212,7 @@
             },
             "vertices": [
               {
-                "x": 160,
+                "x": 370,
                 "y": -170
               }
             ]
@@ -1267,7 +1267,7 @@
             },
             "vertices": [
               {
-                "x": 70,
+                "x": 280,
                 "y": 300
               }
             ]
@@ -1322,7 +1322,7 @@
             },
             "vertices": [
               {
-                "x": 170,
+                "x": 380,
                 "y": 290
               }
             ]
@@ -1376,7 +1376,7 @@
             },
             "vertices": [
               {
-                "x": 310,
+                "x": 520,
                 "y": -150
               }
             ]
@@ -1430,7 +1430,7 @@
             },
             "vertices": [
               {
-                "x": 340,
+                "x": 550,
                 "y": -60
               }
             ]
@@ -1485,7 +1485,7 @@
             },
             "vertices": [
               {
-                "x": 270,
+                "x": 480,
                 "y": 270
               }
             ]
@@ -1540,7 +1540,7 @@
             },
             "vertices": [
               {
-                "x": 500,
+                "x": 710,
                 "y": 390
               }
             ]
@@ -1641,11 +1641,11 @@
             },
             "vertices": [
               {
-                "x": 220,
+                "x": 430,
                 "y": -440
               },
               {
-                "x": 300,
+                "x": 510,
                 "y": -470
               }
             ]
@@ -1699,7 +1699,7 @@
             },
             "vertices": [
               {
-                "x": 320,
+                "x": 530,
                 "y": -360
               }
             ]
@@ -1754,15 +1754,15 @@
             },
             "vertices": [
               {
-                "x": 720,
+                "x": 930,
                 "y": -490
               },
               {
-                "x": 740,
+                "x": 950,
                 "y": -490
               },
               {
-                "x": 790,
+                "x": 1000,
                 "y": -470
               }
             ]
@@ -1817,7 +1817,7 @@
             },
             "vertices": [
               {
-                "x": 700,
+                "x": 910,
                 "y": -370
               }
             ]
@@ -1965,7 +1965,7 @@
             },
             "vertices": [
               {
-                "x": 515,
+                "x": 725,
                 "y": -320
               }
             ]
@@ -2017,7 +2017,7 @@
             },
             "vertices": [
               {
-                "x": 586,
+                "x": 796,
                 "y": -350
               }
             ]
@@ -2072,7 +2072,7 @@
             },
             "vertices": [
               {
-                "x": 700,
+                "x": 910,
                 "y": 310
               }
             ]
@@ -2127,7 +2127,7 @@
             },
             "vertices": [
               {
-                "x": 770,
+                "x": 980,
                 "y": 270
               }
             ]
@@ -2182,7 +2182,7 @@
             },
             "vertices": [
               {
-                "x": 220,
+                "x": 430,
                 "y": 260
               }
             ]
@@ -2237,15 +2237,15 @@
             },
             "vertices": [
               {
-                "x": 360,
+                "x": 570,
                 "y": 430
               },
               {
-                "x": 340,
+                "x": 550,
                 "y": 300
               },
               {
-                "x": 470,
+                "x": 680,
                 "y": 170
               }
             ]
@@ -2297,7 +2297,7 @@
             },
             "vertices": [
               {
-                "x": 470,
+                "x": 680,
                 "y": 30
               }
             ]
@@ -2349,7 +2349,7 @@
             },
             "vertices": [
               {
-                "x": 440,
+                "x": 650,
                 "y": 102
               }
             ]
@@ -2404,7 +2404,7 @@
             },
             "vertices": [
               {
-                "x": 410,
+                "x": 620,
                 "y": 400
               }
             ]
@@ -2436,16 +2436,16 @@
             ],
             "id": "164874cd-09a1-405c-b5cd-ffa8b22b6543",
             "source": {
-              "x": 10,
+              "x": 220,
               "y": 380
             },
             "target": {
-              "x": 240,
+              "x": 450,
               "y": 540
             },
             "vertices": [
               {
-                "x": 200,
+                "x": 410,
                 "y": 400
               }
             ]
@@ -2480,20 +2480,20 @@
             ],
             "id": "c0482e8e-5e3a-4dbc-a4e6-b30ea59ab58a",
             "source": {
-              "x": 155,
+              "x": 365,
               "y": -488
             },
             "target": {
-              "x": 70,
+              "x": 280,
               "y": -310
             },
             "vertices": [
               {
-                "x": 660,
+                "x": 870,
                 "y": -270
               },
               {
-                "x": 640,
+                "x": 850,
                 "y": -170
               }
             ]
@@ -2523,27 +2523,95 @@
             ],
             "id": "72b7df4c-0800-401d-90a2-a0754050f3d8",
             "source": {
-              "x": 1040,
+              "x": 1250,
               "y": -330
             },
             "target": {
-              "x": 1000,
+              "x": 1210,
               "y": -490
             },
             "vertices": [
               {
-                "x": 830,
+                "x": 1040,
                 "y": -340
               },
               {
-                "x": 850,
+                "x": 1060,
                 "y": -472
               }
             ]
           },
           {
+            "shape": "trust-boundary-curve",
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Boundary",
+              "name": "Resort\nInternal\nSystem",
+              "description": "",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false,
+              "crossingFlows": [],
+              "containedElements": [
+                "96d04f0a-f634-4ecf-89c6-82583e0dbb6a",
+                "664bbde1-9526-4baa-8de8-4e068928983c",
+                "ed859af1-baa8-40db-a456-3f32e364133b",
+                "9de3696c-8429-4b38-ab11-7cc0f5ac74be",
+                "cdbf82e8-fe98-4923-a46d-22029f6fb914",
+                "e54bb606-8e0c-4483-9d8e-183590d895a9",
+                "db3a626b-3478-4fbb-8063-3418b981ffe6",
+                "f11119f1-61e5-4b4c-9cf0-35c0ca94d392",
+                "ef5c88b8-09e2-4db4-98b7-d8a3ccd3b1de",
+                "df6371bc-0b7f-4faf-9363-9ef3f8797896",
+                "c39c43cf-2214-4d36-9ee5-47659f0c3e88",
+                "baad4937-d211-4953-916a-a5abbfd5c06b",
+                "bdbee12f-e17e-4fc5-89b7-a441dcbf7274"
+              ]
+            },
+            "labels": [
+              "Resort\nInternal\nSystem"
+            ],
+            "id": "febe5984-edb5-4409-afc9-a618d3047176",
+            "source": {
+              "x": 807,
+              "y": -528
+            },
+            "target": {
+              "x": 530,
+              "y": -550
+            },
+            "vertices": [
+              {
+                "x": 710,
+                "y": -190
+              },
+              {
+                "x": 807,
+                "y": -90
+              },
+              {
+                "x": 1280,
+                "y": 160
+              },
+              {
+                "x": 1180,
+                "y": 580
+              },
+              {
+                "x": 790,
+                "y": 650
+              },
+              {
+                "x": 180,
+                "y": 440
+              }
+            ]
+          },
+          {
             "position": {
-              "x": 65,
+              "x": 275,
               "y": -428
             },
             "size": {
@@ -2660,8 +2728,8 @@
           },
           {
             "position": {
-              "x": 530,
-              "y": -260
+              "x": 749.5,
+              "y": -270
             },
             "size": {
               "width": 112.5,
@@ -2777,7 +2845,7 @@
           },
           {
             "position": {
-              "x": 879,
+              "x": 1089,
               "y": -433
             },
             "size": {
@@ -2894,7 +2962,7 @@
           },
           {
             "position": {
-              "x": 882.75,
+              "x": 1092.75,
               "y": -135
             },
             "size": {
@@ -3059,7 +3127,7 @@
             },
             "vertices": [
               {
-                "x": 630,
+                "x": 840,
                 "y": 390
               }
             ]
@@ -3091,16 +3159,16 @@
             ],
             "id": "b79cbbee-ebc8-451a-9a1a-7dbaac26d679",
             "source": {
-              "x": 440,
+              "x": 650,
               "y": 560
             },
             "target": {
-              "x": 670,
+              "x": 880,
               "y": 560
             },
             "vertices": [
               {
-                "x": 540,
+                "x": 750,
                 "y": 430
               }
             ]
@@ -3129,20 +3197,20 @@
             ],
             "id": "c1e9b5d5-75ee-4070-b924-487f94a3e77e",
             "source": {
-              "x": 1020,
+              "x": 1230,
               "y": -210
             },
             "target": {
-              "x": 1070,
+              "x": 1280,
               "y": -50
             },
             "vertices": [
               {
-                "x": 830,
+                "x": 1040,
                 "y": -190
               },
               {
-                "x": 830,
+                "x": 1040,
                 "y": -53
               }
             ]
@@ -3189,36 +3257,36 @@
             ],
             "id": "c1c9ea0c-e7b5-47fd-9af8-5194277770ec",
             "source": {
-              "x": 610,
+              "x": 820,
               "y": -500
             },
             "target": {
-              "x": 290,
+              "x": 500,
               "y": -470
             },
             "vertices": [
               {
-                "x": 480,
+                "x": 690,
                 "y": -260
               },
               {
-                "x": 560,
+                "x": 770,
                 "y": -70
               },
               {
-                "x": 1050,
+                "x": 1260,
                 "y": 130
               },
               {
-                "x": 540,
+                "x": 750,
                 "y": 370
               },
               {
-                "x": 40,
+                "x": 250,
                 "y": 210
               },
               {
-                "x": 290,
+                "x": 500,
                 "y": -470
               }
             ]
@@ -3248,104 +3316,19 @@
             ],
             "id": "ad85ab00-7e4d-47ac-be6f-4201eb1a739e",
             "source": {
-              "x": 1030,
+              "x": 1240,
               "y": 400
             },
             "target": {
-              "x": 820,
+              "x": 1030,
               "y": 540
             },
             "vertices": [
               {
-                "x": 870,
+                "x": 1080,
                 "y": 430
               }
-            ],
-            "tools": {
-              "items": [
-                "boundary",
-                "button-remove",
-                "vertices",
-                "source-arrowhead",
-                "target-arrowhead",
-                "boundary",
-                "button-remove",
-                "vertices",
-                "source-arrowhead",
-                "target-arrowhead",
-                "boundary",
-                "button-remove",
-                "vertices",
-                "source-arrowhead",
-                "target-arrowhead",
-                "boundary",
-                "button-remove",
-                "vertices",
-                "source-arrowhead",
-                "target-arrowhead",
-                "boundary",
-                "button-remove",
-                "vertices",
-                "source-arrowhead",
-                "target-arrowhead",
-                "boundary",
-                "button-remove",
-                "vertices",
-                "source-arrowhead",
-                "target-arrowhead",
-                "boundary",
-                "button-remove",
-                "vertices",
-                "source-arrowhead",
-                "target-arrowhead",
-                "boundary",
-                "button-remove",
-                "vertices",
-                "source-arrowhead",
-                "target-arrowhead",
-                "boundary",
-                "button-remove",
-                "vertices",
-                "source-arrowhead",
-                "target-arrowhead",
-                "boundary",
-                "button-remove",
-                "vertices",
-                "source-arrowhead",
-                "target-arrowhead",
-                "boundary",
-                "button-remove",
-                "vertices",
-                "source-arrowhead",
-                "target-arrowhead",
-                "boundary",
-                "button-remove",
-                "vertices",
-                "source-arrowhead",
-                "target-arrowhead",
-                "boundary",
-                "button-remove",
-                "vertices",
-                "source-arrowhead",
-                "target-arrowhead",
-                "boundary",
-                "button-remove",
-                "vertices",
-                "source-arrowhead",
-                "target-arrowhead",
-                "boundary",
-                "button-remove",
-                "vertices",
-                "source-arrowhead",
-                "target-arrowhead",
-                "boundary",
-                "button-remove",
-                "vertices",
-                "source-arrowhead",
-                "target-arrowhead"
-              ],
-              "name": null
-            }
+            ]
           }
         ],
         "description": ""
